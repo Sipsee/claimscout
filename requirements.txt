@@ -1,0 +1,4 @@
+streamlit>=1.40
+openai>=1.40
+tavily-python>=0.5
+pydantic>=2.6
